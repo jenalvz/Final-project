@@ -1,5 +1,6 @@
 # Final-project
 Bootcamp Final Project - Individual Code
+Link to Kaggle Notebook: https://www.kaggle.com/jenniferalv/neural-net-ninjas-project-4-j-alvarez
 -----
 
 
